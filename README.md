@@ -1,12 +1,10 @@
 # Projecte_de_comunicacio_cientifica
 Assignatura Projecte de Comunicació Científica, Enginyeria Biomèdica UPF.
 
-Introduce yourself:
-
 Name: Elena\
-Surname: Polls
-UNIS: (your unis) 
-Email: elena.polls01@estudiant.upf.edu
+Surname: Polls\
+UNIS: u198682 \
+Email: elena.polls01@estudiant.upf.edu\
 
 Introduce your project:
 
