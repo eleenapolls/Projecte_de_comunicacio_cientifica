@@ -3,7 +3,7 @@ Assignatura Projecte de Comunicació Científica, Enginyeria Biomèdica UPF.
 
 Introduce yourself:
 
-Name: Elena
+Name: Elena\
 Surname: Polls
 UNIS: (your unis) 
 Email: elena.polls01@estudiant.upf.edu
