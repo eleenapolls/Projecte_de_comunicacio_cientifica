@@ -5,7 +5,7 @@ Name: Elena\
 Surname: Polls\
 UNIS: u198682 \
 NIA: 252441\
-Email: elena.polls01@estudiant.upf.edu\
+Email: elena.polls01@estudiant.upf.edu
 
 Introduce your project:
 
